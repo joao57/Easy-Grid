@@ -1,1 +1,1 @@
-# Easy-Grid
+Easy-Grid
